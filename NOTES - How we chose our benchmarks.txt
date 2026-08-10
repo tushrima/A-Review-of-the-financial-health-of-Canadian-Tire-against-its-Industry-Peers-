@@ -1,0 +1,309 @@
+These are working notes rather than polished report text.
+
+⸻
+
+Benchmark Selection Methodology – Working Notes
+
+Problem
+
+Canadian Tire is difficult to benchmark because it is not a pure-play retailer.
+
+The company operates across multiple business lines:
+
+* General merchandise retail
+* Automotive retail
+* Sporting goods and outdoor products
+* Home products and hardware
+* Financial services (Canadian Tire Financial Services)
+* Real estate exposure through CT REIT
+
+As a result, no single company provides a perfect comparison.
+
+This creates a benchmarking challenge that should be acknowledged explicitly in the report rather than ignored.
+
+⸻
+
+Source Used
+
+S&P Capital IQ was used as the primary source for identifying comparable companies.
+
+Two relevant competitor sources were available:
+
+Competitor List
+
+Canadian Tire’s competitor page contained approximately 37 competitors.
+
+This list included:
+
+* Walmart
+* Amazon
+* Costco
+* Sobeys
+* Metro
+* Loblaw
+* Home Depot
+* IKEA
+* Nordstrom
+* PetSmart
+* Wayfair
+* Cabela’s
+* Home Hardware
+* Leon’s
+* others
+
+This list appears to be broad and strategic in nature.
+
+It identifies companies that compete with Canadian Tire in some aspect of its business, but not necessarily companies that are suitable financial benchmarks.
+
+Example:
+
+* Amazon competes in e-commerce.
+* Home Depot competes in home improvement.
+* PetSmart competes in pet products.
+* Sobeys competes indirectly through household spending budgets.
+
+These companies are competitors but not necessarily good financial comparables.
+
+⸻
+
+Capital IQ Quick Comps
+
+Capital IQ’s Quick Comps feature identified the following closest publicly traded comparable companies:
+
+* Metro
+* Dollarama
+* Empire (Sobeys)
+* Loblaw
+* Wesfarmers
+* Amazon
+* several international retailers
+
+These companies appear to be selected based on business similarity, financial characteristics, and valuation comparability rather than simply competitive overlap.
+
+For accounting analysis purposes, the Quick Comp list is considered more reliable than the broader competitor list.
+
+⸻
+
+Selected Industry Benchmark Group
+
+The benchmark group will consist of:
+
+* Metro
+* Dollarama
+* Empire (Sobeys)
+* Loblaw
+
+⸻
+
+Why These Companies Were Selected
+
+Metro
+
+* Large Canadian retailer
+* Publicly traded
+* IFRS reporting
+* Significant food and household goods retail presence
+* Similar exposure to Canadian consumer spending
+
+⸻
+
+Empire (Sobeys)
+
+* Large Canadian retailer
+* Publicly traded
+* IFRS reporting
+* National retail footprint
+* Similar size to Canadian Tire
+* Already identified as a useful comparable through prior analysis
+
+Empire is likely the strongest candidate for the “most comparable company” requirement.
+
+⸻
+
+Loblaw
+
+* Largest Canadian retailer in the group
+* Publicly traded
+* IFRS reporting
+* Significant exposure to consumer spending
+* Major national retail network
+
+Provides a useful upper-scale benchmark.
+
+⸻
+
+Dollarama
+
+* Publicly traded
+* Canadian retailer
+* Significant national footprint
+* Consumer discretionary exposure
+* Included by Capital IQ in its peer group
+
+Provides additional perspective from a different but still relevant retail model.
+
+⸻
+
+Why Other Companies Were Excluded
+
+Walmart
+
+Not included in industry averages.
+
+Reasons:
+
+* Global operations
+* Much larger scale
+* Different operating model
+* Different competitive environment
+
+However, Walmart remains useful as a strategic comparison company because it represents a highly successful large-scale retailer and provides context for operational efficiency and strategic direction.
+
+Use:
+
+* Strategic comparator
+
+Not use:
+
+* Industry benchmark calculations
+
+⸻
+
+Amazon
+
+Excluded because:
+
+* Technology platform characteristics
+* Marketplace business model
+* Cloud computing operations (AWS)
+* Global scale vastly exceeds Canadian Tire
+
+Poor accounting benchmark despite being a competitive threat.
+
+⸻
+
+Costco
+
+Excluded because:
+
+* Membership warehouse model
+* Different pricing and inventory strategy
+* Different margin structure
+
+Not directly comparable.
+
+⸻
+
+Home Depot
+
+Excluded because:
+
+* Pure home improvement retailer
+* Narrower business model
+* No financial services segment
+
+⸻
+
+IKEA, Wayfair, Nordstrom, PetSmart, etc.
+
+Excluded because:
+
+* Too specialised
+* Not representative of Canadian Tire’s overall business model
+
+⸻
+
+Most Comparable Company Selection
+
+Selected company:
+
+Empire (Sobeys)
+
+Reasons:
+
+* Canadian company
+* IFRS reporting
+* Similar scale
+* Similar market environment
+* National retail presence
+* Similar maturity profile
+* Appears in Capital IQ peer group
+* Strong availability of financial data
+
+No company perfectly matches Canadian Tire.
+
+Empire is not a perfect peer but represents the most defensible single-company comparison available.
+
+⸻
+
+Final Comparison Structure
+
+Comparison 1 – Historical Analysis
+
+Canadian Tire vs Canadian Tire (2021–2025)
+
+Purpose:
+
+* Trend analysis
+* Growth
+* Profitability
+* Liquidity
+* Solvency
+* Efficiency
+* Cash flow
+
+⸻
+
+Comparison 2 – Comparable Company
+
+Canadian Tire vs Empire (Sobeys)
+
+Purpose:
+
+* Detailed peer comparison
+* Direct discussion of strengths and weaknesses
+
+⸻
+
+Comparison 3 – Industry Benchmark
+
+Canadian Tire vs benchmark group median/average
+
+Benchmark group:
+
+* Metro
+* Empire
+* Loblaw
+* Dollarama
+
+Purpose:
+
+* Industry norms
+* External benchmarking
+* Support investment conclusions
+
+⸻
+
+Comparison 4 – Strategic Comparator
+
+Canadian Tire vs Walmart
+
+Purpose:
+
+* Strategic context
+* Operational excellence comparison
+* Long-term competitive positioning
+
+Not used in industry averages due to scale differences.
+
+⸻
+
+Key Point for Report
+
+A major conclusion from the benchmarking process is that Canadian Tire lacks a truly perfect comparable company because of its combination of:
+
+* Retail operations
+* Financial services
+* Real estate interests
+
+Rather than weakening the analysis, this justifies the use of multiple benchmarking approaches (historical, peer, industry, and strategic comparisons) to develop a more reliable assessment of long-term financial health and investment attractiveness.
